@@ -1,2 +1,2 @@
 # FreeLancer
-A complete Platform For Hiring
+A complete platform for hiring and freelancing.
